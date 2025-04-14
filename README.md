@@ -1,9 +1,9 @@
 # Hackintosh EFI
 
 <div align="center">
-  <img src="Images/main.jpeg" width="33%" alt="Main View">
-  <img src="Images/left.jpeg" width="33%" alt="Left View">
-  <img src="Images/right.jpeg" width="33%" alt="Right View">
+  <img src="Images/main.jpeg" width="30%" alt="Main View">
+  <img src="Images/left.jpeg" width="30%" alt="Left View">
+  <img src="Images/right.jpeg" width="30%" alt="Right View">
 </div>
 
 ## Parts List
